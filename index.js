@@ -15,7 +15,7 @@ const getCatFacts = async () => {
   }catch(err){
     console.log(err);
     return null;
-  }Ò
+  }
 };
 
 const getFox = async()=>{
