@@ -13,7 +13,7 @@
     "@babel/preset-stage-3": "^7.8.3",
     "axios": "^0.21.1",
     "fastify": "^3.12.0",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.20"
   },
   "devDependencies": {
     "husky": "5.0.9",
